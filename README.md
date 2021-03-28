@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  
+
+Graduated from engineering in 2019. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
+Check my medium page - https://medium.com/@p.rishang007
 
 <!--
 **Rishang007/Rishang007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

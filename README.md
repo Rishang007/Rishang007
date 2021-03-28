@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-Graduated in electronics and communication engineering. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
+Undergraduate in electronics and communication engineering. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
 Check my medium page - https://medium.com/@p.rishang007
 
 <!--

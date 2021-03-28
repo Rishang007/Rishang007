@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-Graduated from engineering in 2019. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
+Graduated in electronics and communication engineering. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
 Check my medium page - https://medium.com/@p.rishang007
 
 <!--

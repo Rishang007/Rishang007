@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 Undergraduate in electronics and communication engineering. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
-Check my medium page - https://medium.com/@p.rishang007
+Check my medium page - https://p-rishang007.medium.com
 
 <!--
 **Rishang007/Rishang007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

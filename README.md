@@ -1,6 +1,10 @@
 ### Hi there 👋  
 
-Undergraduate in electronics and communication engineering. My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.  
+Currently Pursuing Masters in Engineering Science from University at Buffalo, Buffalo, USA. 
+My area of expertise is Artificial Intelligence. I have a keen interest in NLP and Computer Vision.
+I have over two years of experience as Machine Learning Engineer.
+ "Currently looking for Summer Internship anywhere in USA"
+
 Check my medium page - https://p-rishang007.medium.com
 
 <!--
